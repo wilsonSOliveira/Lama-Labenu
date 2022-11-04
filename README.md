@@ -111,4 +111,4 @@ CREATE TABLE Lama_Tickets (
 # `Autor`
 
 Wilson Santos De Oliveira </br>
-<a href="https://www.linkedin.com/in/wilson-santos-de-oliveira-5b1919116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/wilsonsantos1992"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/wilson-santos-de-oliveira-5b1919116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://github.com/wilsonSOliveira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
